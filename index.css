@@ -1,0 +1,21 @@
+body {
+  background-color: #e9f2c2;
+}
+
+body div a {
+  color: black;
+  font-size: 20px;
+  font-family: sans-serif;
+  margin: 15px;
+  font-weight: bold;
+}
+
+body #menu, body h1, body h3, body img {
+  margin: 20px;
+  padding: 10px;
+}
+
+body li > a {
+  color: black;
+}
+/*# sourceMappingURL=index.css.map */

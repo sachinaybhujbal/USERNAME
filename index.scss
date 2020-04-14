@@ -1,0 +1,26 @@
+
+$color: black;
+
+body{
+  background-color:#e9f2c2;
+
+    div a{
+        color: $color;
+        font-size: 20px;
+        font-family: sans-serif;
+        margin: 15px;
+        font-weight: bold;
+  
+    }
+
+    #menu,h1,h3,img{
+        margin: 20px;
+        padding: 10px;
+
+    }
+
+    li > a{
+        color: $color;
+    }
+
+}
